@@ -10,7 +10,6 @@ Automatically handles load detection for accurate timing.
 
 * ✔️ Detects game load states
 * ✔️ Prevents time from running during loads
-* ✔️ Simple, minimal, reliable
 
 ## 📜 Autosplitter Script
 (click copy in the top right, do not select and copy.)
