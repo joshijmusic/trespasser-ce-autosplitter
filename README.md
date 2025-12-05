@@ -1,2 +1,48 @@
 # trespasser-ce-autosplitter
  A simple LiveSplit AutoSplitter for Jurassic Park: Tresspasser CE
+Here’s a **clean, modern, compact GitHub-style README** you can paste directly into your repo for your Autosplitter for the 1998 game Trespasser.
+
+---
+
+# Trespasser (1998) Autosplitter
+
+A lightweight **LiveSplit Autosplitter** for the classic 1998 title *Trespasser*.
+Automatically handles load detection for accurate timing.
+
+## ✨ Features
+
+* ✔️ Detects game load states
+* ✔️ Prevents time from running during loads
+* ✔️ Simple, minimal, reliable
+
+## 📜 Autosplitter Script
+
+```csharp
+state("TresCE") {
+
+    // Change bool to byte
+    byte is_Loading_Byte : "TresCE.exe", 0x653AF8;
+}
+
+isLoading {
+
+    // Check if the byte value is 1 (True/Paused)
+    return current.is_Loading_Byte == 1;
+}
+
+update {}
+```
+
+## 📦 Installation
+
+1. Copy this text into Notepad as an `.asl` script.
+2. Open LiveSplit → *Edit Layout* → **+** → *Control* → **Scriptable Autosplitter**.
+3. Select this `.asl` file.
+
+## 📝 Notes
+
+* Compatible with *Trespasser CE* which is found here: https://www.trescom.org/download/trespasser-2020-a-trespasser-modding-starter-kit/
+* Uses memory offset `0x653AF8` to track load-state byte.
+
+
+---
