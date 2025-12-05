@@ -13,7 +13,7 @@ Automatically handles load detection for accurate timing.
 * ✔️ Simple, minimal, reliable
 
 ## 📜 Autosplitter Script
-
+(click copy in the top right, do not select and copy.)
 ```csharp
 state("TresCE") {
 
