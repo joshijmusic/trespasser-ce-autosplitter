@@ -1,6 +1,5 @@
 # trespasser-ce-autosplitter
  A simple LiveSplit AutoSplitter for Jurassic Park: Tresspasser CE
-Here’s a **clean, modern, compact GitHub-style README** you can paste directly into your repo for your Autosplitter for the 1998 game Trespasser.
 
 ---
 
