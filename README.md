@@ -10,6 +10,9 @@ Automatically handles load detection for accurate timing.
 * This script will only work when using TresCE, found here:
 https://www.trescom.org/download/trespasser-2020-a-trespasser-modding-starter-kit/
 
+## Releases
+[Releases Page](https://github.com/joshijmusic/trespasser-ce-autosplitter/releases)
+
 ## ✨ Features
 
 * ✔️ Detects game load states
