@@ -15,7 +15,8 @@ Automatically handles load detection for accurate timing.
 ## ✨ Features
 
 * ✔️ Detects game load states
-* ✔️ Prevents time from running during loads
+* ✔️ Pauses timer from running during loads & pauses.
+* ❌ Does not automatically change level sections. This will come in 0.2.
 
 ## 📦 Installation
 
