@@ -7,8 +7,7 @@ A lightweight **LiveSplit Autosplitter** for the classic 1998 title *Trespasser*
 Automatically handles load detection for accurate timing.
 
 ## Version
-* This script will only work when using TresCE, found here:
-https://www.trescom.org/download/trespasser-2020-a-trespasser-modding-starter-kit/
+* This script will only work when using TresCE, found [here](https://www.trescom.org/download/trespasser-2020-a-trespasser-modding-starter-kit/)
 
 ## Releases
 [Releases Page](https://github.com/joshijmusic/trespasser-ce-autosplitter/releases)
@@ -54,7 +53,7 @@ update {}
 
 ## 📝 Notes
 
-* Compatible with *Trespasser CE* which is found here: https://www.trescom.org/download/trespasser-2020-a-trespasser-modding-starter-kit/
+* Compatible with *Trespasser CE* which is found [here](https://www.trescom.org/download/trespasser-2020-a-trespasser-modding-starter-kit/)
 * Uses memory offset `0x653AF8` to track load-state byte.
 
 
