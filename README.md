@@ -40,9 +40,12 @@ update {}
 3. Select this `.asl` file.
 4. Right click your LiveSplit, Compare Against, Game Time.
 
-OR
+* OR
 
-Install the direct ASL file in Releases.
+1. Install the direct ASL file in Releases.
+2. Open LiveSplit → *Edit Layout* → **+** → *Control* → **Scriptable Autosplitter**.
+3. Select the installed `.asl` file.
+4. Right click your LiveSplit, Compare Against, Game Time.
 
 ## 📝 Notes
 
