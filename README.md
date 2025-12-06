@@ -1,7 +1,7 @@
 
 ---
 
-# Trespasser (1998) Autosplitter - Tresspasser CE
+# Jurassic Park Trespasser (1998) Autosplitter - Trespasser CE
 
 A lightweight **LiveSplit Autosplitter** for the classic 1998 title *Trespasser* when using the CE patch.
 Automatically handles load detection for accurate timing.
