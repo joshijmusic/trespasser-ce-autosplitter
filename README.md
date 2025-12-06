@@ -38,7 +38,7 @@ update {}
 1. Copy the code above into Notepad, and save it as an `.asl` script.
 2. Open LiveSplit → *Edit Layout* → **+** → *Control* → **Scriptable Autosplitter**.
 3. Select this `.asl` file.
-**4. Right click your LiveSplit, Compare Against, Game Time.**
+4. Right click your LiveSplit, Compare Against, Game Time.
 
 OR
 
