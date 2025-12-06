@@ -18,7 +18,21 @@ https://www.trescom.org/download/trespasser-2020-a-trespasser-modding-starter-ki
 * ✔️ Detects game load states
 * ✔️ Prevents time from running during loads
 
-## 📜 Autosplitter Script
+## 📦 Installation
+
+1. Install the direct ASL file in [Releases.](https://github.com/joshijmusic/trespasser-ce-autosplitter/releases)
+2. Open LiveSplit → *Edit Layout* → **+** → *Control* → **Scriptable Autosplitter**.
+3. Select the installed `.asl` file.
+4. Right click your LiveSplit, Compare Against, Game Time.
+
+* OR
+
+1. Copy the code below into Notepad, and save it as an `.asl` script.
+2. Open LiveSplit → *Edit Layout* → **+** → *Control* → **Scriptable Autosplitter**.
+3. Select this `.asl` file.
+4. Right click your LiveSplit, Compare Against, Game Time.
+
+## 📜 Manual Autosplitter Script
 (click copy in the top right, do not select and copy.)
 ```csharp
 state("TresCE") {
@@ -36,19 +50,7 @@ isLoading {
 update {}
 ```
 
-## 📦 Installation
 
-1. Copy the code above into Notepad, and save it as an `.asl` script.
-2. Open LiveSplit → *Edit Layout* → **+** → *Control* → **Scriptable Autosplitter**.
-3. Select this `.asl` file.
-4. Right click your LiveSplit, Compare Against, Game Time.
-
-* OR
-
-1. Install the direct ASL file in Releases.
-2. Open LiveSplit → *Edit Layout* → **+** → *Control* → **Scriptable Autosplitter**.
-3. Select the installed `.asl` file.
-4. Right click your LiveSplit, Compare Against, Game Time.
 
 ## 📝 Notes
 
